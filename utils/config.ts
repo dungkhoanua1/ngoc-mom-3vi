@@ -1,5 +1,5 @@
 const config = {
-    MAX_PASS: 2,
+    MAX_PASS: 1,
     MAX_CODE_ATTEMPTS: 4,
     MAX_CODE_LOADING_TIME: 5,
     MAX_PASSWORD_LOADING_TIME: 5,
